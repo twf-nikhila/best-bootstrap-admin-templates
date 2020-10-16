@@ -18,5 +18,6 @@ Here is my personal collection of some of the best used so far...
 - [Tabler](https://github.com/tabler/tabler) - A premium and open source dashboard template with a responsive and high-quality UI.
 - [Stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template which will help you to speed up your project and design your own dashboard UI.
 - [Gentelella](https://github.com/ColorlibHQ/gentelella)
+- [siQtheme ](https://github.com/siQuang/siqtheme)
 
 feel free to recommend yours in the issue or send a pull request 😇
